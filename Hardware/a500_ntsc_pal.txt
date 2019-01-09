@@ -1,0 +1,12 @@
+
+Agnus 8370:
+	- NTSC
+
+Agnus 8371:
+	- PAL
+
+Agnus 8372:
+	- 
+
+
+
